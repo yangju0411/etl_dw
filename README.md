@@ -4,9 +4,11 @@
 [데이터 파이프라인 프로젝트](https://github.com/yangju0411/datapipeline)를 진행하던 중 전통적인 ETL 과정과 웨어하우스 설계에 집중하는 부분을 따로 두고 싶어서 프로젝트를 분화시켰습니다. 
 
 ## 데이터 소스
-데이터 소스는 기존 프로젝트와 동일하게 NASA에서 공개한 1995년 웹 액세스 로그를 사용합니다.
+데이터 소스는 캐글에 공개되어 있는 웹 액세스 로그 데이터를 사용합니다.
 
-원본 파일 링크: ftp://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html
+이란의 인터넷 쇼핑몰 zanbil.ir의 액세스 로그라고 합니다.
+
+[원본 파일 링크](https://www.kaggle.com/datasets/eliasdabbas/web-server-access-logs)
 
 # REFERENCE
 ## DW
@@ -19,4 +21,11 @@
 팩트 테이블 - 빅데이터를 지탱하는 기술 p.80, p.119
 
 ## ERD
-[ERD 그리는 사이트](https://app.diagrams.net/)
+[ERD 그리는 사이트](https://www.erdcloud.com/)
+
+[아파치 웹서버 로그 파일 상세 분석](http://www.linuxlab.co.kr/docs/00-09-6.htm)
+
+## Python
+[webserver-log-file-analysis](https://www.kaggle.com/code/eliasdabbas/webserver-log-file-analysis)
+
+[GeoIP](https://rielouo.tistory.com/13)
