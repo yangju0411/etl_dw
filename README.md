@@ -20,6 +20,9 @@
 
 팩트 테이블 - 빅데이터를 지탱하는 기술 p.80, p.119
 
+[데이터 웨어하우스 모델링 기본 개념 잡기 1편(Fact, Dimension 테이블)](https://datalibrary.tistory.com/43)
+
+[스타 스키마와 눈송이 스키마.](https://snowturtle93.github.io/posts/%EC%8A%A4%ED%83%80-%EC%8A%A4%ED%82%A4%EB%A7%88%EC%99%80-%EB%88%88%EC%86%A1%EC%9D%B4-%EC%8A%A4%ED%82%A4%EB%A7%88/)
 ## ERD
 [ERD 그리는 사이트](https://www.erdcloud.com/)
 
