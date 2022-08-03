@@ -1,0 +1,6 @@
+/work/data
+/data/log_data/data
+/data/log_data/source_data
+/data/geoip
+.ipynb_checkpoints
+*.pyc
