@@ -1,4 +1,6 @@
 # ETL and Data Warehousing Project
+https://mixed-speedboat-0ce.notion.site/ETL-6cf0666216734eb9b78793ab4eb48566
+
 웹 액세스 로그를 ETL을 거쳐 데이터 웨어하우스에 적재하는 프로젝트입니다.
 
 [데이터 파이프라인 프로젝트](https://github.com/yangju0411/datapipeline)를 진행하던 중 전통적인 ETL 과정과 웨어하우스 설계에 집중하는 부분을 따로 두고 싶어서 프로젝트를 분화시켰습니다.
